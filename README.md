@@ -1,17 +1,10 @@
-# Hydrological modelling and Software Development Assignment 2
-
-## Team 10 Members:
-- Gaurav Batra 20171114
-- Vani Sancheti 20171179
-- Mudit Agarwal 20171090
-- Dhruv Chauhan 20161123
-- Anoushka Vyas 20171057
+# Water Quality Prediction Tool
 
 ## To run the Tool:
 
 Run the following commands:
 ```python
-cd Team10_Assignment2
+cd Water-Quality-Prediction
 python3 main.py
 ```
 
